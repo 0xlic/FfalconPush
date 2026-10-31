@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" width="108" height="108">
+  <title>FFALCON bird emblem — launcher redraw</title>
+  <desc>Geometric vector redraw of the bird emblem in TCL Multimedia's 10 April 2017 press release, page 2. https://doc.irasia.com/listco/hk/tclelectronics/press/p170410.pdf . Trademark belongs to its owner; no affiliation or permission is implied. Not an official vector master.</desc>
+  <rect width="108" height="108" fill="#F6F7F2"/>
+  <g transform="translate(23.92 42.16) scale(.64)" fill="#21352E">
+    <path d="M29,0 L47,18 L65,0 L69,4 L47,26 L25,4 Z"/>
+    <path d="M0,33 L20,13 L40,33 L36,37 L20,21 L4,37 Z"/>
+    <path d="M54,33 L74,13 L94,33 L90,37 L74,21 L58,37 Z"/>
+  </g>
+</svg>

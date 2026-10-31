@@ -1,0 +1,32 @@
+FfalconPush — third-party notices
+
+This experimental application includes unmodified libraries from:
+
+AndroidX / Jetpack Compose (Android Open Source Project and contributors)
+https://developer.android.com/jetpack/androidx
+Compose BOM 2025.10.01 (Material3 1.4.0, UI 1.9.4); Activity 1.11.0;
+Lifecycle 2.9.4; transitive AndroidX dependencies including graphics-path 1.0.1.
+License: Apache License, Version 2.0.
+
+Kotlin standard library 2.2.21 (JetBrains and Kotlin contributors)
+https://github.com/JetBrains/kotlin
+License: Apache License, Version 2.0.
+
+kotlinx.coroutines 1.10.2 (JetBrains and contributors)
+https://github.com/Kotlin/kotlinx.coroutines
+License: Apache License, Version 2.0.
+
+JetBrains annotations (transitive dependency)
+https://github.com/JetBrains/java-annotations
+License: Apache License, Version 2.0.
+
+The complete Apache 2.0 license follows in Apache-2.0.txt.
+Dependency-supplied META-INF license files are retained in the APK.
+No Aerial source code or ADB/HTTP third-party library is bundled.
+Protocol interoperability reference: https://github.com/pengchujin/aerial-tv
+The launcher artwork is a vector redraw of the FFALCON bird emblem shown in
+TCL Multimedia's 10 April 2017 press release, page 2:
+https://doc.irasia.com/listco/hk/tclelectronics/press/p170410.pdf
+FFALCON and its bird emblem are trademarks of their respective owners.
+The emblem is not licensed under Apache 2.0; no trademark permission is implied.
+This app is not affiliated with or endorsed by TCL, FFALCON or those projects.
