@@ -1,0 +1,39 @@
+# Local device details, credentials and private logs
+local/
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
+adbkey
+adbkey.pub
+*.pem
+*.key
+*.p12
+*.pfx
+keystore.properties
+signing.properties
+*.log
+
+# Android / Gradle / IDE
+.gradle/
+.kotlin/
+**/build/
+local.properties
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Generated artifacts and selected/uploaded user packages
+*.apk
+*.apks
+*.xapk
+*.aab
+artifacts/
+uploads/
+tmp/
+
+# Host OS
+.DS_Store
